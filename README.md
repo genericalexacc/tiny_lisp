@@ -1,7 +1,7 @@
 # Tyson Lisp
 Tyson Lisp
 
-![Image of Yaktocat](https://upload.wikimedia.org/wikipedia/commons/f/f2/Mike_Tyson_Portrait.jpg)
+![Image of Yaktocat](https://upload.wikimedia.org/wikipedia/commons/f/f2/Mike_Tyson_Portrait.jpg | width=100)
 
 This is the result of the Build your Lisp book.  
 http://www.buildyourownlisp.com  

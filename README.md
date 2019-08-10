@@ -1,6 +1,8 @@
 # Tyson Lisp
 Tyson Lisp
 
+![Image of Yaktocat](https://upload.wikimedia.org/wikipedia/commons/f/f2/Mike_Tyson_Portrait.jpg)
+
 This is the result of the Build your Lisp book.  
 http://www.buildyourownlisp.com  
 It is a lisp built from scratch in C.  

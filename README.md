@@ -1,7 +1,7 @@
 # Tyson Lisp
 Tyson Lisp
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Mike_Tyson_Portrait.jpg" width="400" height="790">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Mike_Tyson_Portrait.jpg" width="400" height="600">
 
 This is the result of the Build your Lisp book.  
 http://www.buildyourownlisp.com  

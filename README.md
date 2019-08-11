@@ -9,7 +9,7 @@ It is a lisp built from scratch in C.
 It is not very different at all from the lisp in the book but it is my own.  
 
 
-#Usage
+# Usage
 To compile run
 ```console
 foo@bar:~$ cc -std=c99 -Wall tyson.c mpc.c -ledit -lm -o tyson

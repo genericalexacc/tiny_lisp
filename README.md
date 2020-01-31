@@ -1,9 +1,7 @@
 # Tiny Lisp
 
-This is the result of the Build your Lisp book.  
+This is a lisp interpreter that I wrote following along this book:
 http://www.buildyourownlisp.com  
-It is a lisp built from scratch in C.  
-It is not very different at all from the lisp in the book but it is my own.  
 
 
 # Usage

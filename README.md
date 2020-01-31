@@ -7,16 +7,16 @@ http://www.buildyourownlisp.com
 # Usage
 To compile run
 ```console
-foo@bar:~$ cc -std=c99 -Wall tyson.c mpc.c -ledit -lm -o tyson
+foo@bar:~$ cc -std=c99 -Wall tyson.c mpc.c -ledit -lm -o tiny_lisp
 ```
 
 Then to run the REPL:
 ```console
-foo@bar:~$ ./tyson
+foo@bar:~$ ./tiny_lisp
 ```
 
 or to run a file
 
 ```console
-foo@bar:~$ ./tyson std.tlsp
+foo@bar:~$ ./tiny_lisp std.tlsp
 ```

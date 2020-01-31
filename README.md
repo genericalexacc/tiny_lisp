@@ -1,4 +1,4 @@
-# Tyson Lisp
+# Tiny Lisp
 
 This is the result of the Build your Lisp book.  
 http://www.buildyourownlisp.com  

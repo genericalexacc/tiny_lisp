@@ -21,7 +21,7 @@ or to run a file
 foo@bar:~$ ./tiny_lisp std.tlsp
 ```
 
-# Examples
+# Code Examples
 
 Naive recursive Fibonacci function in tiny lisp
 ```common-lisp
